@@ -1,0 +1,6 @@
+1. vẽ biểu đồ cột cho neighbourhood group
+2. tạo histogram cho neighbourhood
+3. Biểu diễn mối liên hệ giữa neighbourgroup và Availability của các phòng
+4. Vẽ bản đồ (scatter plot) của neighborhood dựa theo tọa độ lat lon
+5. Sử dụng heatmap để biểu diễn mối quan hệ (correlation) giữa tất cả các thuộc tính trong dữ liệu
+6. Sử dụng plotly để biểu diễn dữ liệu giá phòng trên bản đồ như mẫu ở slide trang 12 (có thể bấm vào bản đồ để xem giá nhà tại từng điểm)

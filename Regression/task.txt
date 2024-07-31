@@ -1,0 +1,5 @@
+Cho dữ liệu đính kèm, dự đoán tuổi thọ trung bình (Life Expectancy) dựa vào các thuộc tính còn lại theo thuật toán linear regression.
+1. Tính các sai số MAE, MSE, R^2
+2. So sánh các giá trị sai số sau khi chuẩn hóa dữ liệu và trước khi chuẩn hóa dữ liệu
+3. Sử dụng kỹ thuật cross validation để tối ưu hóa các chỉ số
+4. Biểu diễn dữ liệu tuổi thọ của từng quốc gia tới năm 2030
