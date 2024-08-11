@@ -1,0 +1,3 @@
+1. Dựa vào dữ liệu sau, hiển thị tọa độ theo lat và lon của các nước lên một bản đồ
+2. Phân cụm theo 3 thuật toán K-Means, DBSCAN, và DPC
+3. So sánh kết quả và nhận xét
