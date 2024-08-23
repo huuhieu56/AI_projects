@@ -1,0 +1,6 @@
+Dựa vào các file trong thư mục train (TrainData), điền nhãn cho các file trong thư mục test 
+(TestData_nolabel). Có 2 nhãn là spam và notspam. Ví dụ file nhãn sẽ là:
+
+0_unknown.txt,spam
+1_unknown.txt,notspam
+...
